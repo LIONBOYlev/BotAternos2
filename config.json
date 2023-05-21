@@ -1,0 +1,14 @@
+{
+    "ip": "Aternos247Tutorial.aternos.me",
+    "port": 20061,
+    "name": "BOT123",
+    "auto-night-skip": "false",
+    "join-msg": "hello world",
+    "join-msg-on": "true",
+    "custom-message-enabled": "true",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "false",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
